@@ -1,4 +1,4 @@
-# permx
+# permx-HacktheBox
 
 
 [Reconnaissance Phase](https://github.com/alekhinegun/permx/blob/main/Reconnaissance.md)
