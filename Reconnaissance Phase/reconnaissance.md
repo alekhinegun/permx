@@ -32,4 +32,6 @@ nmap -p22,80 $ip -A
 ```
 
 ![image](https://github.com/user-attachments/assets/35625c54-68cb-4b02-9c29-e098b41d0aa2)
-
+## Initial Hunch
+After going to the webpage I observe
+![image](https://github.com/user-attachments/assets/53309791-d3e1-4f00-90db-8f1344529aec)
