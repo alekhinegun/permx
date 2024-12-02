@@ -1,12 +1,14 @@
-## Exploitation (!)
+## Basic Recon
 
-### Connecting to the server (*)
+### 
+
+Create the ip address variable
 
 ```bash
 ip=10
 ```
 
-Here is some boilerplate code for connecting to a docker-based challenge:
+Perform a basic scan on the ports to observe any opne ports.
 
 ```bash
 nmap -p- $ip
