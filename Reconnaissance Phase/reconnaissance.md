@@ -26,3 +26,10 @@ nmap -p22,80 $ip -A
 sudo vim /etc/hosts
 ```
 ![image](https://github.com/user-attachments/assets/2ed9b810-a00a-4cf0-9574-d8dd5bd1f357)
+
+```bash
+nmap -p22,80 $ip -A
+```
+
+![image](https://github.com/user-attachments/assets/35625c54-68cb-4b02-9c29-e098b41d0aa2)
+
