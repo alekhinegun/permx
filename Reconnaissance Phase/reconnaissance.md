@@ -20,3 +20,9 @@ nmap -p- $ip
 nmap -p22,80 $ip -A
 ```
 ![image](https://github.com/user-attachments/assets/201bf43e-7e59-499c-8409-98e8aaf8a2a9)
+
+
+```bash
+sudo vim /etc/hosts
+```
+![image](https://github.com/user-attachments/assets/2ed9b810-a00a-4cf0-9574-d8dd5bd1f357)
