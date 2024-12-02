@@ -35,3 +35,12 @@ nmap -p22,80 $ip -A
 ## Initial Hunch
 After going to the webpage I observe
 ![image](https://github.com/user-attachments/assets/53309791-d3e1-4f00-90db-8f1344529aec)
+
+```bash
+dirb http://permx.htb
+```
+
+```bash
+feroxbuster --url http://permxbuster
+```
+
