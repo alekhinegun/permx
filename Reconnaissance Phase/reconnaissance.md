@@ -47,3 +47,8 @@ feroxbuster --url http://permx.htb
 ![image](https://github.com/user-attachments/assets/2f72a185-d0d6-4e4b-95eb-31ceaa84aed3)
 
 ![image](https://github.com/user-attachments/assets/db00849a-bc87-4572-a3cb-8340bfdc74b8)
+```bash
+ffuf -u http://permx.htb -H "Host:FUZZ.permx.htb" -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-20000.txt -fw 18
+```
+
+![image](https://github.com/user-attachments/assets/64a2504c-a5e2-4e49-9391-618ce6b02e0e)
