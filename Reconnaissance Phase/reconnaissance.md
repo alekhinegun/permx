@@ -53,5 +53,5 @@ ffuf -u http://permx.htb -H "Host:FUZZ.permx.htb" -w /usr/share/seclists/Discove
 
 ![image](https://github.com/user-attachments/assets/64a2504c-a5e2-4e49-9391-618ce6b02e0e)
 
-![image](https://github.com/user-attachments/assets/7d7642d2-817a-48cb-b189-ec10b837ade3)
+![image](https://github.com/user-attachments/assets/b5b8b4c8-47f9-47c9-ad72-366e6905ed1b)
 
