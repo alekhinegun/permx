@@ -41,6 +41,9 @@ dirb http://permx.htb
 ```
 
 ```bash
-feroxbuster --url http://permxbuster
+feroxbuster --url http://permx.htb
 ```
 
+![image](https://github.com/user-attachments/assets/2f72a185-d0d6-4e4b-95eb-31ceaa84aed3)
+
+![image](https://github.com/user-attachments/assets/db00849a-bc87-4572-a3cb-8340bfdc74b8)
